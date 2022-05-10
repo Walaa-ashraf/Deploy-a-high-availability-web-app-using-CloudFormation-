@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramWebAppProject"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-077f4dcd20ed5ed5d"
+    },
+	{
+		"ParameterKey": "JumpBoxKey",
+		"ParameterValue": "JumpBoxKey"
+	}
+]
